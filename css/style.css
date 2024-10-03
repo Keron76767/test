@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 98, 98);
+}
+.bold{
+    font-weight: bold;
+}
+.ital{
+    font-style: italic;
+}
